@@ -1,0 +1,25 @@
+{
+  "name": "typescript-notes",
+  "version": "1.0.0",
+  "description": "A few notes to better understand Typescript",
+  "main": "ahoy.js",
+  "dependencies": {
+    "save-dev": "^2.0.0",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaphMB/typescript-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaphMB/typescript-notes/issues"
+  },
+  "homepage": "https://github.com/SaphMB/typescript-notes#readme"
+}
