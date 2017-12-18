@@ -4,3 +4,4 @@ function describePerson(person) {
     console.log("Their age is " + person.age);
 }
 describePerson({ name: 'Edwidge', age: 35 });
+//# sourceMappingURL=person.js.map

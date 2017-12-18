@@ -3,3 +3,4 @@ function greeting(person) {
 }
 var person = "Junot";
 console.log(greeting(person));
+//# sourceMappingURL=ahoy.js.map
